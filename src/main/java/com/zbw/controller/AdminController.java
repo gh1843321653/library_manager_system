@@ -21,7 +21,7 @@ import javax.servlet.http.HttpServletRequest;
 
 @Controller
 public class AdminController {
-
+//123
     @Resource
     private IAdminService adminService;
     @Resource
